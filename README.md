@@ -1,6 +1,6 @@
 # Wordle Initial Word Generator
 
-Generate 4 random word with unique charcter.
+Generate four words made up of different letters.
 
 Wordle Game: [https://www.powerlanguage.co.uk/wordle](https://www.powerlanguage.co.uk/wordle)
 
