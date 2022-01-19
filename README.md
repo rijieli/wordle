@@ -1,4 +1,4 @@
-# Wordle Initial Word Generator
+# Wordle Initial Words Generator
 
 Generate four words made up of different letters.
 
@@ -23,7 +23,6 @@ furzy		blive		swamp		noght
 farce		width		glump		bosky
 perch		unbox		swift		glazy
 hexad		truck		filmy		spong
-can't		hiems		budgy		flowk
 whist		pored		mucky		flang
 quern		sixth		clomp		gawky
 skied		foxly		whang		crumb
@@ -38,7 +37,6 @@ sprew		batch		dungy		jolif
 fishy		zante		drock		plumb
 shrag		oxfly		unbid		kempt
 chips		flunk		grove		bawdy
-grise		han't		flock		dumpy
 chirk		bawdy		spent		mogul
 shuck		bigot		predy		flawn
 lobed		stump		finch		jarvy
